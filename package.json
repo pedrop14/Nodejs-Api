@@ -1,0 +1,20 @@
+{
+  "name": "proj_eventos",
+  "version": "1.0.0",
+  "description": "Aplicação de Eventos do Coren-MG",
+  "main": "./bin/www.js",
+  "scripts": {
+    "start": "node ./bin/www.js",
+    "nodemon": "nodemon ./bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Amado",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0"
+  }
+}
