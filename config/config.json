@@ -1,8 +1,8 @@
 {
   "mysql":{
     "host": "localhost",
-		"user" : "root",
-		"password" : "dakar1@",
-		"database" : "portal_noticias"
+    "user" : "root",
+    "password" : "********",
+    "database" : "portal_noticias"
   }
 }
