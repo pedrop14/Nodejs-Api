@@ -4,7 +4,7 @@ var router = express.Router();
 //rota home
 router.get('/',function(req, res){
   res.status(201);
-  res.json({'name':'Pedro', 'email':'pedropp'});
+  res.send("API RestFul");
 });
 
 //rota Eventos
