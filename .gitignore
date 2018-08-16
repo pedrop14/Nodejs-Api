@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+#Trash files
+trash
+

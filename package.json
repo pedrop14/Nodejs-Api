@@ -1,7 +1,7 @@
 {
-  "name": "proj_eventos",
+  "name": "api_rest",
   "version": "1.0.0",
-  "description": "Aplicação de Eventos do Coren-MG",
+  "description": "Node REST API",
   "main": "./bin/www.js",
   "scripts": {
     "start": "node ./bin/www.js",
